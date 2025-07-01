@@ -3,7 +3,6 @@
 This project predicts the cost of solar panel installation using a Linear Regression model.
 
 ## Features Considered:
-- Number of panels
 - Panel type (mono / poly / thin-film)
 - Battery backup
 - Installation area
